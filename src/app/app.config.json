@@ -1,0 +1,15 @@
+{
+	"appname": "Tundra Admin Application",
+	"scope": "FullAccess",
+	"clientid": "5BB85BE0-ECCE-4282-9115-045ADE9ED35A",
+	"buyerid": null,
+	"catalogid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
